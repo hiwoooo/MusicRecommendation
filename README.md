@@ -7,8 +7,22 @@ GPU의 도입과 빅데이터의 발전으로 인공지능이 급속도로 발�
 API의 이용으로 다양하고 재미있는 서비스를 만들어 내며 소비자 중심의 UI를 만들어 내는 것에 목적을 두었다.
 
 ## 데이터 수집
-- Fer2013
+- Fer2013 
 - AIHub(연기자지망생 감정이미지)
+  - fer2013과 같은 형태로 grayscale, crop, resize하여 이미지 전처리
+- Total 20297개의 이미지를 사용  
+  - Happiness 7295
+  - Sadness 4839
+  - Surprise 3197
+  - Neutral 4966
+ 
+
 
 ## 시스템 구성 흐름 및 구성
 ![image](https://user-images.githubusercontent.com/95407936/168747649-0a66c57e-afa3-42e9-9ed4-e3fec30035dd.png)
+
+## 모델 구현
+- Convolution Layer + Batch Normaliztion(정규화)
+
+![image](https://user-images.githubusercontent.com/95407936/168749946-8dd81c90-5a37-4cdf-a613-70f65f3869d6.png)
+
