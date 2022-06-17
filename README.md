@@ -36,8 +36,8 @@ API의 이용으로 다양하고 재미있는 서비스를 만들어 내며 소�
 ![image](https://user-images.githubusercontent.com/95407936/174202426-faf662f1-aa49-4158-8ea3-3c35746ca370.png)
 
 
-## 모델 구현
-- Convolution Layer + Batch Normaliztion(정규화)
+## 모델 구현(DCNN)
+- Convolution Layer + Batch Normaliztion(정규화) + 증식
 
 ![image](https://user-images.githubusercontent.com/95407936/168749946-8dd81c90-5a37-4cdf-a613-70f65f3869d6.png)
 
