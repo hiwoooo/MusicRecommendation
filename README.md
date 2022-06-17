@@ -29,6 +29,8 @@ API의 이용으로 다양하고 재미있는 서비스를 만들어 내며 소�
 
 ## 시스템 구성 흐름 및 구성
 ![image](https://user-images.githubusercontent.com/95407936/168747649-0a66c57e-afa3-42e9-9ed4-e3fec30035dd.png)
+![image](https://user-images.githubusercontent.com/95407936/174202509-112ed594-dba6-4e80-9db7-31f1ce88120f.png)
+
 
 ## 음악 추천 방식
 ![image](https://user-images.githubusercontent.com/95407936/174202426-faf662f1-aa49-4158-8ea3-3c35746ca370.png)
